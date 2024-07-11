@@ -40,10 +40,7 @@ Before you begin, ensure you have the following installed:
     python3 -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
-4. Install required dependencies:
-    ```sh
-    pip3 install -r requirements.txt
-    ```
+
 
 ## Usage
 1. **Setup the Database:**
@@ -76,7 +73,6 @@ Before you begin, ensure you have the following installed:
 
 ## Project Structure
 - `book.py`: The main script to run the program.
-- `requirements.txt`: List of Python dependencies.
 - `README.md`: Project documentation.
 
 
